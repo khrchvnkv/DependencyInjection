@@ -1,0 +1,15 @@
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/obj/Debug/net7.0/DependencyInjection.csproj.AssemblyReference.cache
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/obj/Debug/net7.0/DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/obj/Debug/net7.0/DependencyInjection.AssemblyInfoInputs.cache
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/obj/Debug/net7.0/DependencyInjection.AssemblyInfo.cs
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/obj/Debug/net7.0/DependencyInjection.csproj.CoreCompileInputs.cache
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/bin/Debug/net7.0/DependencyInjection
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/bin/Debug/net7.0/DependencyInjection.deps.json
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/bin/Debug/net7.0/DependencyInjection.runtimeconfig.json
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/bin/Debug/net7.0/DependencyInjection.dll
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/bin/Debug/net7.0/DependencyInjection.pdb
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/obj/Debug/net7.0/DependencyInjection.dll
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/obj/Debug/net7.0/refint/DependencyInjection.dll
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/obj/Debug/net7.0/DependencyInjection.pdb
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/obj/Debug/net7.0/DependencyInjection.genruntimeconfig.cache
+/Users/deniskharchevnikov/Documents/Projects/DependencyInjection/DependencyInjection/DependencyInjection/obj/Debug/net7.0/ref/DependencyInjection.dll
